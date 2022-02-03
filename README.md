@@ -10,6 +10,8 @@ https://adventofcode.com/2021/day/6
 
 ## Using the Python File
 
+The python file is named projectfile.ipynb
+
 The file requires multiple inputs when run as these will generate the random list of testing variables. For no of elements, any number between 250 and 500 is fine, and days any number between ~150 to ~300.
 Then the second set of inputs is for the window, a window of around ~150 is good.
 
